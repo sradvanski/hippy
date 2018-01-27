@@ -91,4 +91,10 @@ public class NewsDocument extends HippoDocument {
     public DefaultJMG getImage() {
         return getLinkedBean("seocms:image", DefaultJMG.class);
     }
+
+
+    
+
+
+
 }
