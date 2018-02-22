@@ -1,0 +1,4 @@
+definitions:
+  config:
+    /hst:hst/hst:configurations/seocms/hst:abstractpages:
+      jcr:primaryType: hst:pages

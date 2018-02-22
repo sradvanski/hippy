@@ -1,0 +1,5 @@
+group: 
+  name: seo-cms
+  after: hippo-cms
+project: seo-cms
+module: seo-cms-repository-data-webfiles

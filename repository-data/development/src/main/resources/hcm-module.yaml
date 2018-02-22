@@ -1,0 +1,7 @@
+group: 
+  name: seo-cms
+  after: hippo-cms
+project: seo-cms
+module: 
+  name: seo-cms-repository-data-development
+  after: seo-cms-repository-data-application
