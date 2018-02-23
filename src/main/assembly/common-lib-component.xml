@@ -4,7 +4,7 @@
     <dependencySet>
       <useProjectArtifact>false</useProjectArtifact>
       <outputDirectory>common/lib</outputDirectory>
-      <scope>provided</scope>
+      <scope>runtime</scope>
       <includes>
         <include>javax.jcr:jcr</include>
         <include>org.apache.geronimo.specs:geronimo-jta_1.1_spec</include>
